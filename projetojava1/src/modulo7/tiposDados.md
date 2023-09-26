@@ -13,3 +13,5 @@ Tipo String
 
 Tipo Char
 
+Tipo Boolean
+
