@@ -7,3 +7,9 @@ Tipos Primitivos
 | int   | 32      | -2³¹ a 2³¹ - 1                       | 0            |
 | long  | 64      | -2<sup>63</sup> a 2<sup>63</sup> - 1 | 0L           |
 
+Tipo Double
+
+Tipo String
+
+Tipo Char
+
