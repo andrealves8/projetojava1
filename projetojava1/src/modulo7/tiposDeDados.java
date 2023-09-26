@@ -1,6 +1,6 @@
 package modulo7;
 
-public class tipos_e_variaveis {
+public class tiposDeDados {
 
 	public static void main(String[] args) {
 		// Tipo          // Tamanho
